@@ -10,7 +10,7 @@ Website:
 http://cataclysm.wowmortal.com/
 
 Realmlist: 
-logon.cataclysm.wowmortal.comu
+logon.cataclysm.wowmortal.com
 
 How To Play: 
 http://cataclysm.wowmortal.com/howtoconnect.php
