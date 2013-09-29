@@ -1,10 +1,15 @@
                                                   BugTracker - 4.0.6 realm.
 
-Bugtracker: https://github.com/VeraDev/WoWMortal-406-Bugtracker/issues
-Forum: http://forums.wowmortal.com/
-Website: http://cataclysm.wowmortal.com/
-Realmlist: logon.cataclysm.wowmortal.comu
-How To Play: http://cataclysm.wowmortal.com/howtoconnect.php
+Bugtracker: 
+https://github.com/VeraDev/WoWMortal-406-Bugtracker/issues
+Forum: 
+http://forums.wowmortal.com/
+Website: 
+http://cataclysm.wowmortal.com/
+Realmlist: 
+logon.cataclysm.wowmortal.comu
+How To Play: 
+http://cataclysm.wowmortal.com/howtoconnect.php
 
 Before you make a report please read this:
 
