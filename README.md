@@ -2,12 +2,16 @@
 
 Bugtracker: 
 https://github.com/VeraDev/WoWMortal-406-Bugtracker/issues
+
 Forum: 
 http://forums.wowmortal.com/
+
 Website: 
 http://cataclysm.wowmortal.com/
+
 Realmlist: 
 logon.cataclysm.wowmortal.comu
+
 How To Play: 
 http://cataclysm.wowmortal.com/howtoconnect.php
 
